@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDom from 'react-dom';
-import Hello from './hello';
+import Hello from './Pagination';
 
 ReactDom.render(
-    <Hello />,document.getElementById('root')
+    <Pagination />,document.getElementById('root')
 );
